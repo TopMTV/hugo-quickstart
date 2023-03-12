@@ -1,4 +1,4 @@
-baseURL = 'http://hugo-quickstart-template.netlify.com'
-languageCode = 'en-us'
-title = 'Netlify + Hugo Quickstart'
+baseURL = 'http://dev.omni-channel.vn/'
+languageCode = 'vi-vn'
+title = 'CMS Omni-Channel Digital Marketing ver 4.0'
 theme = 'netlify-basic'
